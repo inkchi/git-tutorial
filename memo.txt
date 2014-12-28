@@ -5,6 +5,6 @@ test‚ ‚ ‚ 
 
 change
 aaa
-
+conflict
 feature-A
 fix-B
